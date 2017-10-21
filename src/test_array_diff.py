@@ -73,9 +73,10 @@ def test_three_array_diff_carson():
 
 
 def test_four_array_diff_carson():
-    """Test function that checks for boolean values."""
+    """Test function that ensures input of boolean values
+    raises AssertionError."""
     from array_diff import array_diff
     try:
-        assert array_diff(['a', 1, 'b', True], ['b', 1, 'a']) == [True]
+        assert array_diff(['a', 1, 'b', True], ['b', 1, 'a']) == AssertionError
     except AssertionError:
         print('Cannot use boolean values.')

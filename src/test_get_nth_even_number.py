@@ -47,11 +47,12 @@ def test_two_carson():
 
 
 def test_three_carson():
-    """Test function that checks nth_even returns ValueError when n is equal to 0."""
+    """Test function that ensures nth_even returns TypeError
+    when given a string for input."""
     from get_nth_even_number import nth_even
     try:
-        assert nth_even(0)
-    except ValueError:
+        assert nth_even('string') == TypeError
+    except TypeError:
         print('0 cannot by multiplied!')
 
 
