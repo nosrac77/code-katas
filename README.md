@@ -6,6 +6,12 @@
 - **Tests**: `test_multiply.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/50654ddff44f800200000004)
 
+**Will there be enough space? (8th kyu)**
+
+- **Module**: `enough.py`
+- **Tests**: `test_enough.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/5875b200d520904a04000003)
+
 **What is between? (8th kyu)**
 
 - **Module**: `between.py`
