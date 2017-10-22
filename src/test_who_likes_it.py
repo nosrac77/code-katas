@@ -89,13 +89,3 @@ def test_four_who_likes_it_carson():
         assert likes(['!@#$%^&*()+_-~'])
     except TypeError:
         print('Cannot use characters as list input.')
-
-
-def test_five_who_likes_it_carson():
-    """Function that tests if list input that contains binary numbers raises
-    TypeError."""
-    from who_likes_it import likes
-    try:
-        assert likes([0b1101, 0b1, 0b1101001])
-    except TypeError:
-        print('Cannot use characters as list input.')

@@ -76,9 +76,3 @@ def test_four_fib_carson():
         assert fibs_fizz_buzz([1]) == TypeError
     except TypeError:
         print('Cannot take list.')
-
-
-def test_five_fib_carson():
-    """Function that ensure input of tuple doesn't raise TypeError."""
-    from fib_fizz_buzz import fibs_fizz_buzz
-    assert fibs_fizz_buzz((3)) != TypeError
