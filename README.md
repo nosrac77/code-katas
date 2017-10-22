@@ -6,6 +6,12 @@
 - **Tests**: `test_multiply.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/50654ddff44f800200000004)
 
+**What is between? (8th kyu)**
+
+- **Module**: `between.py`
+- **Tests**: `test_between.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/what-is-between/python)
+
 **Get nth even number (8th kyu)**
 
 - **Module**: `get_nth_even_number.py`

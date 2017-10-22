@@ -1,5 +1,4 @@
-"""Kata: Fibonacci's FizzBuzz - return a list of the fibonacci sequence with
-the words 'Fizz', 'Buzz', and 'FizzBuzz' replacing certain integers.
+"""Kata: Multiply - literally just add return to a * b.
 
 #1 Best Practices Solution by jhoffner, lost-theory, Svenito, mortonfox,
 steezeburger, xsami (plus 1465 more warriors)

@@ -1,5 +1,4 @@
-"""Kata: Fibonacci's FizzBuzz - return a list of the fibonacci sequence with
-the words 'Fizz', 'Buzz', and 'FizzBuzz' replacing certain integers.
+"""Kata: Test between - return array of integers between a and b.
 
 #1 Best Practices Solution by zebulan, lancelote, Paulchenkiller,
 antoine.leclercq, VadimPopov, Jonathan.Chan (plus 93 more warriors)
