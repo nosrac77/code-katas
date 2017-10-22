@@ -2,8 +2,8 @@
 
 **Multiply (8th kyu)**
 
-- **Module**: `opposite_number.py`
-- **Tests**: `test_opposite_number.py`
+- **Module**: `multiply.py`
+- **Tests**: `test_multiply.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/50654ddff44f800200000004)
 
 **Get nth even number (8th kyu)**
