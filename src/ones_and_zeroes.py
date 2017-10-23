@@ -1,5 +1,4 @@
-"""Kata: Fibonacci's FizzBuzz - return a list of the fibonacci sequence with
-the words 'Fizz', 'Buzz', and 'FizzBuzz' replacing certain integers.
+"""Kata: Ones and Zeroes - Convert an array of binary numbers to an integer of that value.
 
 #1 Best Practices Solution by andrewferk, hackstrider, datagram, and others.
 
