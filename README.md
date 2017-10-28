@@ -24,6 +24,13 @@
 - **Tests**: `test_get_nth_even_number.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
 
+
+**Sum of nth term in Series (7th kyu)**
+
+- **Module**: `sum_series.py`
+- **Tests**: `test_sum_series.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/555eded1ad94b00403000071)
+
 **Fibonacci's FizzBuzz (7th kyu)**
 
 - **Module**: `fib_fizz_buzz.py`

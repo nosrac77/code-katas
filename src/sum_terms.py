@@ -1,5 +1,5 @@
-"""Kata: Ones and Zeroes - Convert an array of binary numbers to an integer of
-that value.
+"""Kata: Sum of the first nth term of Series - my task was to write a function
+which returns the sum of following series upto nth term(parameter).
 
 #1 Best Practices Solution by MMMAAANNN, doctornick5, Slx64, ninja37,
 FablehavenGeek, nabrarpour4 (plus 18 more warriors)
