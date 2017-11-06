@@ -31,6 +31,12 @@
 - **Tests**: `test_sum_series.py`
 - **URL**: [challenge url](http://www.codewars.com/kata/555eded1ad94b00403000071)
 
+**Sort a Deck of Cards (7th kyu)**
+
+- **Module**: `sort_cards.py`
+- **Tests**: `test_sort_cards.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/sort-deck-of-cards)
+
 **Fibonacci's FizzBuzz (7th kyu)**
 
 - **Module**: `fib_fizz_buzz.py`
